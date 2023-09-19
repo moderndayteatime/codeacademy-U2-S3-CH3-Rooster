@@ -1,0 +1,6 @@
+Reflection
+Project was helpful in identifying areas I misunderstood, specifically, the thrown error. We learnt this a while ago in Section 2 but
+I was confused how it tied into section 3. Also the automated tests are meant to throw an error and pass if the test does cause an error
+instead of testing if it does not throw an error.
+
+Helpful video here: https://www.youtube.com/watch?v=GYLz0QJe9VI
